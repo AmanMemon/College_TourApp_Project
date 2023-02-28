@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "242332489715",
+    "project_id": "take-a-tour-76bc0",
+    "storage_bucket": "take-a-tour-76bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242332489715:android:0dbf2c7fe3a8a77d2c2486",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242332489715-6g72j35167n1ibn3e3iq2lv6upnbpvji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpage",
+            "certificate_hash": "63b5aeafa92382d864a3b80ada055e64d285634f"
+          }
+        },
+        {
+          "client_id": "242332489715-ogvk6g966f4hv61h2fs8aetr0vk5no99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP4-0ALhptcaz46LgOL7hSvQdKJzRA1y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242332489715-ogvk6g966f4hv61h2fs8aetr0vk5no99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
